@@ -102,8 +102,7 @@ I build across the full spectrum — from pixel-precise frontends to scalable ba
 ```
 .
 ├── [ WIP ]  Full Stack Web App          — MERN + TypeScript architecture
-├── [ WIP ]  DSA Sheet in C++           — 450+ problems, clean solutions
-├── [ WIP ]  ML Classification Engine   — scikit-learn + custom pipeline
+├── [ WIP ]  DSA Sheet in C++           — 200+ problems, clean solutions
 └── [ NEXT ] Open Source Contribution   — coming soon
 ```
 
